@@ -24,9 +24,9 @@ return [
     ],
     'simotelApi' => [
         'api_auth' => 'both',
-        'api_user' => 'test',
-        'api_pass' => 'Test123456',
-        'api_key' => 'pvGmQQ19ZOUF21huSUmST0fU3FVAe0z6EWK9tbuOFnTxZHHLoY',
-        'server_address' => 'http://37.156.144.147/api/v4/',
+        'api_user' => 'apiUserName',
+        'api_pass' => 'apiPassword',
+        'api_key' => 'yourApiToken',
+        'server_address' => 'http://serverIpAddress/api/v4/',
     ],
 ];
